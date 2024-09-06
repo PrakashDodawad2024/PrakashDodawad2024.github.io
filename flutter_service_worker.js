@@ -3,6 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
+<<<<<<< HEAD
   ".git/COMMIT_EDITMSG": "c027f28d8677179ab35f2f1317e35f96",
 ".git/config": "8e787bbe71b1581aa3ec310a67dc049a",
 ".git/description": "a0a7c3fff21f2aea3cfa1d0316dd816c",
@@ -86,6 +87,9 @@ const RESOURCES = {
 ".git/refs/heads/main": "84ff6b2897055c6d3165e68b8289ba2b",
 ".git/refs/remotes/origin/main": "d7520fa6563951f85c86dee38824ff62",
 "assets/AssetManifest.json": "9a3dad24cd0238d6fd357b8bbc1f176e",
+=======
+  "assets/AssetManifest.json": "9a3dad24cd0238d6fd357b8bbc1f176e",
+>>>>>>> 195042c972616d87ac7d4e62571f3494cf3bfcbc
 "assets/assets/about.png": "6c94390b9680dbe3bfad9853cdbc4dcc",
 "assets/assets/background_image.png": "d6a3131f69ff6d8639fd0be981ec046b",
 "assets/assets/dummy_resume.pdf": "ee553da0b218ab64dbe40901636dca07",
@@ -93,12 +97,20 @@ const RESOURCES = {
 "assets/assets/experience.png": "3bcb1efe498f35babd6feca29644e460",
 "assets/assets/github.png": "f5d3421a297bc675358b11e81b9edd9c",
 "assets/assets/linkedin.png": "931866a5778daf9a6db284b62871156e",
+<<<<<<< HEAD
 "assets/assets/playstore.png": "d3d3dc116d586f36a60b5a72f2b224dc",
+=======
+"assets/assets/playstore.png": "97069c265bd7ae75f85fc364b68e58bf",
+>>>>>>> 195042c972616d87ac7d4e62571f3494cf3bfcbc
 "assets/assets/resume.png": "b16c0f0c598c1b914dd657362e679f4e",
 "assets/assets/skills.png": "75becb4f04d23aa90eea0a9055d73406",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+<<<<<<< HEAD
 "assets/NOTICES": "37f6527cfa8988cdb75e9bab09edd221",
+=======
+"assets/NOTICES": "55d5d951ef28a96b916cbd7dd46eef9d",
+>>>>>>> 195042c972616d87ac7d4e62571f3494cf3bfcbc
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
@@ -110,9 +122,15 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
+<<<<<<< HEAD
 "index.html": "f1c0881447094a2249d957b396ae73dc",
 "/": "f1c0881447094a2249d957b396ae73dc",
 "main.dart.js": "8194dd5a2b015094799f55efb08fa5b9",
+=======
+"index.html": "3eef5cb2598fa885a391cd1448352a0c",
+"/": "3eef5cb2598fa885a391cd1448352a0c",
+"main.dart.js": "622a109526d274060ee035ef900b8e9e",
+>>>>>>> 195042c972616d87ac7d4e62571f3494cf3bfcbc
 "manifest.json": "9489fd5631ba1e20b033acee24aa6a18",
 "version.json": "fb8d4678888024cd5f83d8522bb3a722"
 };
